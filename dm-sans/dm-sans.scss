@@ -1,0 +1,59 @@
+/* dm-sans-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('dm-sans-v11-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('dm-sans-v11-latin-regular.woff') format('woff'); /* Modern Browsers */
+}
+
+/* dm-sans-italic - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'DM Sans';
+    font-style: italic;
+    font-weight: 400;
+    src: url('dm-sans-v11-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('dm-sans-v11-latin-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* dm-sans-500 - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    src: url('dm-sans-v11-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('dm-sans-v11-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* dm-sans-500italic - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'DM Sans';
+    font-style: italic;
+    font-weight: 500;
+    src: url('dm-sans-v11-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('dm-sans-v11-latin-500italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* dm-sans-700 - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url('dm-sans-v11-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('dm-sans-v11-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* dm-sans-700italic - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'DM Sans';
+    font-style: italic;
+    font-weight: 700;
+    src: url('dm-sans-v11-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('dm-sans-v11-latin-700italic.woff') format('woff'); /* Modern Browsers */
+}
